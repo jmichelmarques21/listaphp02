@@ -32,7 +32,7 @@
     echo "Sexo inválido";
   }
   
-
+  ?>
 
   
 </body>
